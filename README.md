@@ -51,8 +51,10 @@
   <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code">
   <code><img height="50" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
     </a>
-  </p>
-  
+   </p>
+  <br />
+  <p align="center">
+   <img align="center" alt="GIF" src="https://i.stack.imgur.com/NSHyg.gif" width="400" height="300" /></p>
   <br />
   <h1 align="center">👨‍💻 Happy Coding 👨‍💻</h1>
  <p align="center"> <img src="https://octodex.github.com/images/welcometocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img
