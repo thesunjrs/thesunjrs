@@ -20,7 +20,7 @@
 <br />
 
 ## About Me 🚀:
-🎓 I’m a first-year student pursuing my Bachelors in Computer Science & Engineering(Specialisation in Artificial Intelligence and Machine Learning). </br>
+🎓 I’m a first-year student from Sri Sri Univerisity, pursuing my Bachelors in Computer Science & Engineering(Specialisation in Artificial Intelligence and Machine Learning). </br>
 👨‍💻   I am interested in exploring the fields of Software Engineering , Web Development & I enjoy learning new things. </br>
 <h2>Languages & Tools: </h2>
 
