@@ -35,6 +35,9 @@
    </a>
    <a href="https://en.wikipedia.org/wiki/Red_Hat">
             <code><img height="50" img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"></code>
+   </a>   
+   <a href="https://en.wikipedia.org/wiki/Linux">
+            <code><img height="50" img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
    </a>
     <a href="https://github.com/thesunjrs">
   <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
