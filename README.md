@@ -33,21 +33,30 @@
    <a href="https://en.wikipedia.org/wiki/Java">
      <code><img height="50" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
    </a>
-   <a href="https://en.wikipedia.org/wiki/Red_Hat">
-            <code><img height="50" img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"></code>
-   </a>   
+  
    <a href="https://en.wikipedia.org/wiki/Linux">
             <code><img height="50" img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
    </a>
     <a href="https://github.com/thesunjrs">
   <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   </a>
+    <a href="https://en.wikipedia.org/wiki/Red_Hat">
+            <code><img height="50" img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"></code>
+   </a>   
   <a href="https://en.wikipedia.org/wiki/HTML5">
   <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   </a>
   <a href="https://en.wikipedia.org/wiki/CSS#CSS_3">
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
     </a>
+   
+  <br />
+   
+   
+   <br />
+   <a href"https://en.wikipedia.org/wiki/Exercism">
+  <code><img height="50" src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white"></code>
+  </a>
   <a href="https://en.wikipedia.org/wiki/WordPress">
   <code><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
   </a>
