@@ -1,4 +1,4 @@
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm JRS!
+# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Aditttt!
 <a href="https://www.instagram.com/thesunjrs/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  />
 <a href="https://www.linkedin.com/in/aditya-jyotiraditya-72050b212/">
