@@ -1,4 +1,4 @@
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Aditttt!
+# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Aditttt! ![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
 <a href="https://www.instagram.com/thesunjrs/">
   <img align="left" width="50px" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/Instagram.svg"  />
 <a href="https://www.linkedin.com/in/aditya-jyotiraditya-72050b212/">
@@ -17,8 +17,6 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Aditya Jyotiraditya's DEV Community Profile" height="" width="50px">
 </a>
 
-<br />
-
 
 ![](https://hit.yhype.me/github/profile?user_id=70430987)
 
@@ -28,6 +26,7 @@
 ## About Me 🚀:
 🎓 I’m a third-year student from Sri Sri Univerisity, pursuing my Bachelors in Computer Science & Engineering(Specialisation in Artificial Intelligence and Machine Learning). </br>
 👨‍💻   I am interested in exploring the fields of Software Engineering , Web Development & I enjoy learning new things. </br>
+
 <h2>Languages & Tools: </h2>
 
 <p align="center">
