@@ -32,28 +32,53 @@
 
 <p align="center">
  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-  <code><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/></code>
+  <code><img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/C.svg"/></code>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-  <code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></code>
+  <code><img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/CPP.svg"/></code>
   </a>
    <a href="https://en.wikipedia.org/wiki/Java">
-     <code><img height="50" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+     <code><img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/Java-Dark.svg"></code>
    </a>
   
    <a href="https://en.wikipedia.org/wiki/Linux">
-            <code><img height="50" img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
+            <code><img height="50" img src="https://github.com/thesunjrs/skill-icons/blob/main/icons/Linux-Dark.svg"></code>
    </a>
     <a href="https://github.com/thesunjrs">
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/Github-Dark.svg"></code>
   </a>
     <a href="https://en.wikipedia.org/wiki/Red_Hat">
-            <code><img height="50" img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"></code>
+            <code><img height="50" img src="https://github.com/thesunjrs/skill-icons/blob/main/icons/RedHat-Dark.svg"></code>
    </a>   
   <a href="https://en.wikipedia.org/wiki/HTML5">
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/HTML.svg"></code>
   </a>
   <a href="https://en.wikipedia.org/wiki/CSS#CSS_3">
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
+  <code><img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/CSS.svg"></code>
+    </a>
+
+  </a>
+  <a href="https://tailwindcss.com/">
+  <code><img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"></code>
+    </a>
+
+  <a href="https://www.php.net/">
+  <code><img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/PHP-Dark.svg"></code>
+    </a>
+
+  <a href="https://www.python.org/">
+  <code><img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/Python-Dark.svg"></code>
+    </a>
+
+   <a href="https://svelte.dev/">
+  <code><img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/Svelte.svg"></code>
+    </a>
+
+  <a href="https://www.mysql.com/">
+  <code><img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/MySQL-Dark.svg"></code>
+    </a>
+
+   <a href="https://www.mongodb.com/">
+  <code><img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/MongoDB.svg"></code>
     </a>
    
   <br />
@@ -64,10 +89,10 @@
   <code><img height="50" src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white"></code>
   </a>
   <a href="https://en.wikipedia.org/wiki/WordPress">
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
+  <code><img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/Wordpress.svg"></code>
   </a>
   <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code">
-  <code><img height="50" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
+  <code><img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/VSCode-Dark.svg"></code>
     </a>
    </p>
   <br />
@@ -80,6 +105,3 @@ src="https://octodex.github.com/images/filmtocat.png" height="160px" width="160p
  <p align="center"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif">
 
 
-![](https://hit.yhype.me/github/profile?user_id=70430987)
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/adnahmed/adnahmed/output/github-snake.svg)
