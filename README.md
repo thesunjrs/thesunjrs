@@ -1,21 +1,21 @@
 # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Aditttt!
 <a href="https://www.instagram.com/thesunjrs/">
-  <img align="left" width="44px" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/Instagram.svg"  />
+  <img align="left" width="50px" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/Instagram.svg"  />
 <a href="https://www.linkedin.com/in/aditya-jyotiraditya-72050b212/">
-  <img align="left" width="24px" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/LinkedIn.svg"  />
+  <img align="left" width="50px" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/LinkedIn.svg"  />
 </a>
 <a href="https://twitter.com/thesunjrs">
-  <img align="left" width="26px" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/Twitter.svg" />
+  <img align="left" width="50px" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/Twitter.svg" />
 </a>
 <a href="mailto:adityaish212@gmail.com">
-  <img align="left" width="26px" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/Gmail-Dark.svg" />
+  <img align="left" width="50px" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/Gmail-Dark.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCaWUoIkTf5RmMpVusYR1wig">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a> 
- /* <a href="https://dev.to/thesunjrs">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Aditya Jyotiraditya's DEV Community Profile" height="30" width="30">
-</a>*/
+ <a href="https://dev.to/thesunjrs">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Aditya Jyotiraditya's DEV Community Profile" height="" width="50px">
+</a>
 
 <br />
 
