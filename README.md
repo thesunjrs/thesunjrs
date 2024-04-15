@@ -27,6 +27,14 @@
 🎓 I’m a third-year student from Sri Sri Univerisity, pursuing my Bachelors in Computer Science & Engineering(Specialisation in Artificial Intelligence and Machine Learning). </br>
 👨‍💻   I am interested in exploring the fields of Software Engineering , Web Development & I enjoy learning new things. </br>
 
+
+
+
+
+
+
+
+
 <h2>Languages & Tools: </h2>
 
 <p align="center">
@@ -98,7 +106,11 @@
   <p align="center">
    <img align="center" alt="GIF" src="https://i.stack.imgur.com/NSHyg.gif" width="400" height="300" /></p>
   <br />
-  <h1 align="center">👨‍💻 Happy Coding 👨‍💻</h1>
+  <h1 align="center">
+  <img src="https://media.giphy.com/media/Z9WQLSrsQKH3uZa9x3/giphy.gif" width="30px">&nbsp;
+  Happy Coding&nbsp;
+  <img src="https://media.giphy.com/media/Z9WQLSrsQKH3uZa9x3/giphy.gif" width="30px">
+</h1>
  <p align="center"> <img src="https://octodex.github.com/images/welcometocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img
 src="https://octodex.github.com/images/filmtocat.png" height="160px" width="160px"></p>
  <p align="center"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif">
