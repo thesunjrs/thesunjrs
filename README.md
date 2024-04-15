@@ -19,6 +19,12 @@
 
 <br />
 
+
+![](https://hit.yhype.me/github/profile?user_id=70430987)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/adnahmed/adnahmed/output/github-snake.svg)
+
+
 ## About Me 🚀:
 🎓 I’m a third-year student from Sri Sri Univerisity, pursuing my Bachelors in Computer Science & Engineering(Specialisation in Artificial Intelligence and Machine Learning). </br>
 👨‍💻   I am interested in exploring the fields of Software Engineering , Web Development & I enjoy learning new things. </br>
