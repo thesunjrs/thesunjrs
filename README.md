@@ -1,6 +1,6 @@
 # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Aditttt!
 <a href="https://www.instagram.com/thesunjrs/">
-  <img align="left" width="24px" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/Instagram.svg"  />
+  <img align="left" width="44px" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/Instagram.svg"  />
 <a href="https://www.linkedin.com/in/aditya-jyotiraditya-72050b212/">
   <img align="left" width="24px" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/LinkedIn.svg"  />
 </a>
