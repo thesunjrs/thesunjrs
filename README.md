@@ -28,6 +28,7 @@
 👨‍💻   I am interested in exploring the fields of Software Engineering , Web Development & I enjoy learning new things. </br>
 
 
+<p align = "center"><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="" /></p>
 
 
 
