@@ -1,4 +1,4 @@
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Aditttt! ![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
+# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Aditya Jyotiraditya! ![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
 <a href="https://www.instagram.com/thesunjrs/">
   <img align="left" width="50px" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/Instagram.svg"  />
 <a href="https://www.linkedin.com/in/aditya-jyotiraditya-72050b212/">
