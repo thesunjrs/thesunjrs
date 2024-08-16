@@ -11,10 +11,10 @@
   <img align="left" width="50px" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/Gmail-Dark.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCaWUoIkTf5RmMpVusYR1wig">
-  <img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" width="50px" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" />
 </a> 
  <a href="https://dev.to/thesunjrs">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Aditya Jyotiraditya's DEV Community Profile" height="" width="50px">
+  <img src="https://github.com/thesunjrs/skill-icons/blob/main/icons/DevTo-Dark.svg" alt="Aditya Jyotiraditya's DEV Community Profile" height="" width="50px">
 </a>
 
 
