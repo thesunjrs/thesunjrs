@@ -23,9 +23,10 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/adnahmed/adnahmed/output/github-snake.svg)
 
 
-## About Me 🚀:
-🎓 I’m a final-year student from Sri Sri Univerisity, pursuing my Bachelors in Computer Science & Engineering(Specialisation in Artificial Intelligence and Machine Learning). </br>
-👨‍💻   I am interested in exploring the fields of Software Engineering , Web Development & I enjoy learning new things. </br>
+## About Me 🚀
+
+🎓 Final-year Computer Science & Engineering student at Sri Sri University, specializing in AI and Machine Learning.  
+👨‍💻 Passionate about Software Engineering, Web Development, and continuous learning.
 
 
 <p align = "center"><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="" /></p>
