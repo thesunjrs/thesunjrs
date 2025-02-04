@@ -54,7 +54,7 @@ projects:
     description: created models for fitness data analysis, blood donation prediction, and ASL recognition
 
   - name: Telecom Customer Churn
-    tech: python, mL
+    tech: python, ML
     description: predicted customer churn using telecom data, feature engineering, and model comparison
 
 certifications:
