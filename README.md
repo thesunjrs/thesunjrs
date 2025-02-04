@@ -1,9 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername) 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&duration=2500&pause=500&width=550&lines=Hey+Developers!!+;this+is+thesunjrs.)](https://git.io/typing-svg)
 <img src="https://github.com/thesunjrs/thesunjrs/blob/main/assets/banner.gif" >
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&duration=2500&pause=500&width=550&lines=Hey+Developers!!+;this+is+thesunjrs.)](https://git.io/typing-svg)
 - Building smart systems with Spring Boot, gRPC, and OpenAI’s API, always pushing for speed and efficiency  
 - Exploring the world of presales with TOGAF and SAP S/4HANA, making businesses work smarter  
 - Chess, table tennis, and the daily grind of getting sharper, faster, and better  
