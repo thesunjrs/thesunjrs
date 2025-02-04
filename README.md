@@ -1,4 +1,73 @@
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Aditya Jyotiraditya! ![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername) 
+
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&duration=2500&pause=500&width=550&lines=Hey+Developers!!+;this+is+thesunjrs.)](https://git.io/typing-svg)
+<img src="https://github.com/thesunjrs/thesunjrs/blob/main/assets/banner.gif" >
+
+
+- Building smart systems with Spring Boot, gRPC, and OpenAI’s API, always pushing for speed and efficiency  
+- Exploring the world of presales with TOGAF and SAP S/4HANA, making businesses work smarter  
+- Chess, table tennis, and the daily grind of getting sharper, faster, and better  
+- Web series, movies, music, and those much-needed café and mall escapes to stay sane
+
+```yaml
+apiVersion: v21
+kind: Human
+
+metadata:
+  name: Aditya Jyotiraditya Sahoo
+
+experience:
+  - company: MedTourEasy
+    role: machine Learning Intern
+    work: built predictive models for fitness and blood donation, and implemented ASL recognition.
+
+  - company: Hindustan Aeronautics Limited
+    role: IT Trainee
+    work: built a machine learning-based Smart Township Management system and a water quality assessment model
+
+  - company: SSU-Orion Fest
+    role: POC - Culturals
+    work: led cultural event coordination, planning, and execution for the university fest
+
+  - company: SSU-MUN
+    role: Junior Web Developer
+    work: contributed to the SSU-MUN website, improving UI/UX and optimizing performance
+
+technologies:
+  code: C++, Java, Python, HTML, CSS, PHP
+  frontend: JavaScript, React, Node.js
+  backend: Spring Boot, gRPC, SQL, PocketBase
+  tools: VS Code, Git, GitHub, Canva, MS Excel
+  misc: OpenCV, Mediapipe, Fusion 360
+
+projects:
+  - name: Employee Turnover Prediction
+    tech: python, ML
+    description: built predictive models to analyze employee churn factors and optimize retention strategies
+
+  - name: Water Potability
+    tech: machine learning, predictive modeling, data analysis
+    description: developed an ML model to assess water quality using physical and chemical parameters
+
+  - name: Deep Learning Models
+    tech: python, pandas, scikit-learn, tensorFlow, matplotlib
+    description: created models for fitness data analysis, blood donation prediction, and ASL recognition
+
+  - name: Telecom Customer Churn
+    tech: python, mL
+    description: predicted customer churn using telecom data, feature engineering, and model comparison
+
+certifications:
+  - Machine Learning Scientist with Python - DataCamp
+  - AWS Academy Machine Learning Foundations - AWS
+  - Red Hat System Administrator (RH134) - Red Hat
+  - Cisco Certified Programming Essentials in C - Cisco
+  - Introduction to Web Development with HTML5, CSS3, and JavaScript - edX
+  - Python Basics for Data Science - edX
+```
+
+
+### <img src="https://github.com/thesunjrs/thesunjrs/blob/main/assets/giphy.gif" width="50">Connect with me 
 <a href="https://www.instagram.com/thesunjrs/">
   <img align="left" width="50px" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/Instagram.svg"  />
 <a href="https://www.linkedin.com/in/aditya-jyotiraditya-72050b212/">
@@ -17,94 +86,9 @@
   <img src="https://github.com/thesunjrs/skill-icons/blob/main/icons/DevTo-Dark.svg" alt="Aditya Jyotiraditya's DEV Community Profile" height="" width="50px">
 </a>
 
-
-![](https://hit.yhype.me/github/profile?user_id=70430987)
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/adnahmed/adnahmed/output/github-snake.svg)
 
-
-## About Me 🚀
-
-🎓 Final-year Computer Science & Engineering student at Sri Sri University, specializing in AI and Machine Learning.  
-👨‍💻 Passionate about Software Engineering, Web Development, and continuous learning.
-
-
-<p align = "center"><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="" /></p>
-
-
-
-
-
-
-
-
-
-<h2>Languages & Tools:</h2>
-
-<p align="center">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/C.svg" alt="C">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-    <img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/CPP.svg" alt="C++">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Java">
-    <img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Linux">
-    <img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux">
-  </a>
-  <a href="https://github.com/thesunjrs">
-    <img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Red_Hat">
-    <img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/RedHat-Dark.svg" alt="Red Hat">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/HTML5">
-    <img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/HTML.svg" alt="HTML5">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/CSS#CSS_3">
-    <img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/CSS.svg" alt="CSS3">
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind CSS">
-  </a>
-  <a href="https://www.php.net/">
-    <img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP">
-  </a>
-  <a href="https://www.python.org/">
-    <img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python">
-  </a>
-  <a href="https://svelte.dev/">
-    <img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/Svelte.svg" alt="Svelte">
-  </a>
-  <a href="https://www.mysql.com/">
-    <img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL">
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB">
-  </a>
-  <br />
-  <br />
-  <a href="https://en.wikipedia.org/wiki/Exercism">
-    <img height="50" src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" alt="Exercism">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/WordPress">
-    <img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/Wordpress.svg" alt="WordPress">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code">
-    <img height="50" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="Visual Studio Code">
-  </a>
-</p>
-
-
-
-
-  <br />
-  <p align="center">
-   <img align="center" alt="GIF" src="https://i.stack.imgur.com/NSHyg.gif" width="400" height="300" /></p>
-  <br />
-  <h1 align="center">
+<h1 align="center">
   <img src="https://media.giphy.com/media/Z9WQLSrsQKH3uZa9x3/giphy.gif" width="30px">&nbsp;
   Happy Coding&nbsp;
   <img src="https://media.giphy.com/media/Z9WQLSrsQKH3uZa9x3/giphy.gif" width="30px">
