@@ -95,6 +95,6 @@ certifications:
 </h1>
  <p align="center"> <img src="https://octodex.github.com/images/welcometocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img
 src="https://octodex.github.com/images/filmtocat.png" height="160px" width="160px"></p>
- <p align="center"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif">
+ <p align="center"><img src="https://github.com/thesunjrs/thesunjrs/blob/main/assets/Mario_Gameplay.gif">
 
 
