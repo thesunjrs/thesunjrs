@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername) 
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&duration=2500&pause=500&width=550&lines=Hey+Developers!!+;this+is+thesunjrs.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&duration=2500&pause=500&width=550&lines=Hey+Developers!!+;this+is+thesunjrs.)](https://git.io/typing-svg)
 <img src="https://github.com/thesunjrs/thesunjrs/blob/main/assets/banner.gif" >
 
 
