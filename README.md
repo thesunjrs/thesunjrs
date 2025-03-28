@@ -6,6 +6,19 @@
 - Chess, table tennis, and the daily grind of getting sharper, faster, and better  
 - Web series, movies, music, and those much-needed café and mall escapes to stay sane
 
+
+### 🛠️ Tech Stack  
+
+| **Category**       | **Technologies**                                          |
+|--------------------|----------------------------------------------------------|
+| **Code**          | C++, Java, Python, HTML, CSS, PHP                        |
+| **Frontend**      | JavaScript, React, Node.js                               |
+| **Backend**       | Spring Boot, gRPC, SQL, PocketBase                       |
+| **Tools**         | VS Code, Git, GitHub, Canva, MS Excel                    |
+| **Misc**          | OpenCV, Mediapipe, Fusion 360                            |
+
+---
+
 ```yaml
 apiVersion: v21
 kind: Human
@@ -29,13 +42,6 @@ experience:
   - company: SSU-MUN
     role: Junior Web Developer
     work: contributed to the SSU-MUN website, improving UI/UX and optimizing performance
-
-technologies:
-  code: C++, Java, Python, HTML, CSS, PHP
-  frontend: JavaScript, React, Node.js
-  backend: Spring Boot, gRPC, SQL, PocketBase
-  tools: VS Code, Git, GitHub, Canva, MS Excel
-  misc: OpenCV, Mediapipe, Fusion 360
 
 projects:
   - name: Employee Turnover Prediction
